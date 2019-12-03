@@ -9,3 +9,6 @@ Code/blinkerton_temp_humidity_battery/config.h
 *.s#3
 *.s#2
 *.s#1
+PCB/HumidTempSleep_Feather/HumidTempSleep_Feather_001.b#1
+PCB/HumidTempSleep_Feather/HumidTempSleep_Feather_001.b#2
+PCB/HumidTempSleep_Feather/HumidTempSleep_Feather_001.b#3
